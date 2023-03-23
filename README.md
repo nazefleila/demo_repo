@@ -1,2 +1,2 @@
 # demo
-bonjour 
+bonjour :!!q::q
